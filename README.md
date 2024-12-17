@@ -1,4 +1,4 @@
-A work of art designed called "Pure".
+# A work of art designed called "Pure".
 
 # A look at the history of NFTs in the world of cryptocurrencies
 The birth of NFTs began in 2017 with the launch of projects such as CryptoPunks and CryptoKitties. CryptoPunks were actually a collection of pixelated characters that made up 10,000 unique items. These CryptoPunks were initially free, but later, due to their popularity, they priced these NFTs and today their value has reached a level where they are on the list of the most expensive NFTs. The projects on the NFT platform are still developing and have been able to find their way into various industries and applications.
